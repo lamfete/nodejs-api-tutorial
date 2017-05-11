@@ -1,0 +1,24 @@
+{
+  "name": "notable",
+  "version": "1.0.0",
+  "description": "app for taking note",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello, world!"
+  },
+  "keywords": [
+    "nodejs",
+    "API",
+    "tutorial"
+  ],
+  "author": "lamfete",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
